@@ -1,0 +1,8 @@
+{
+	"type": "record",
+	"name": "SimpleMessage",
+	"namespace": "avro",
+	"fields": [
+		{"name": "content", "type":"string"}
+	]
+}
