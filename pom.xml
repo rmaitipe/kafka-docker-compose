@@ -56,7 +56,7 @@
             </goals>
             <configuration>
               <sourceDirectory>${project.basedir}/single-node-avro-kafka/avro/</sourceDirectory>
-              <outputDirectory>single-node-avro-kafka/example/</outputDirectory>
+              <outputDirectory>example/</outputDirectory>
               <stringType>String</stringType>
             </configuration>
           </execution>
